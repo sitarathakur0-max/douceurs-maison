@@ -1,0 +1,6 @@
+{
+  "name": "Douceurs Maison",
+  "description": "Small pastry business in Lyon specializing in custom cakes, cupcakes, celebration desserts and handmade sweet treats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
